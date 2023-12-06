@@ -7,8 +7,6 @@ My name is Bruno Michael and I am a fullstack web developer. I'm from Brazil, I 
 # GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMichael)](https://github.com/BrunoMichael/github-readme-stats)
 
-   
-
 # GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BrunoMichael&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
